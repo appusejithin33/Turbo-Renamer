@@ -1,7 +1,7 @@
 class Translation(object):
     START_TEXT = """നമസ്കാരം<i><b>{}</b></i>,
 
-Welcome to Our <a href='https://t.me/turboremaxbot'><b>Turbo Renamer ⚡</b></a> bot by {}
+Welcome to Our <a href='https://t.me/Princedavitt'><b>Turbo Renamer ⚡</b></a> bot by {}
 
 I Can rename ✍ with custom thumbnail and upload as video/file
 
